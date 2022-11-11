@@ -1,0 +1,16 @@
+GIT STEPS:
+
+FILE PUSH
+-----------
+- git init
+- git add (file name)
+- git commit -m "message"
+- git remote add origin (https link)
+- git push -u origin master
+
+BRANCH CREATION
+-----------------
+- git checkout -b (branchname)
+
+
+
